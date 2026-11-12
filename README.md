@@ -23,3 +23,7 @@ Enter employee type (full-time / part-time):
 
 ## Author
 Daniel Arendt
+
+## Code Review
+- **Reviewed by:** [Julius Concepcion]
+- **Status:** Checked code. Inheritance (`extends`), Scanner input, and creating Full-time and Part-time employees are all correct and working!
